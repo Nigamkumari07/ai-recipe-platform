@@ -1,8 +1,6 @@
 # 🍳 AI Recipe Platform - Complete Project Documentation
 
-A full-stack AI-powered recipe platform built with **Next.js**, **Strapi**, **Google Gemini AI**, and modern web technologies. Generate personalized recipes, scan pantry items with AI, and explore cuisines worldwide.
-
-**[Video Tutorial](https://www.youtube.com/watch?v=zZ85cFWgNhI)** | **[Live Demo](#)** | **[GitHub](#)**
+A full-stack AI-powered recipe platform built with **Next.js**, **Strapi**, **Google Gemini AI**, and modern web technologies. Generate personalized recipes, scan pantry items with AI, and explore cuisines worldwide
 
 ---
 
