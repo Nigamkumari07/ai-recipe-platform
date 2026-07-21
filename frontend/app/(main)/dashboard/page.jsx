@@ -57,7 +57,7 @@ export default async function DashboardPage() {
 
             <Link
               href={`/recipe?cook=${encodeURIComponent(
-                recipeOfTheDay.strMeal
+                recipeOfTheDay.strMeal,
               )}`}
             >
               <div className="relative bg-white border-2 border-stone-900 overflow-hidden hover:border-orange-600 hover:shadow-lg transition-all duration-300 group cursor-pointer">
@@ -69,6 +69,7 @@ export default async function DashboardPage() {
                       alt={recipeOfTheDay.strMeal}
                       fill
                       className="object-cover"
+                      sizes="(max-width: 768px) 100vw, 50vw"
                     />
                   </div>
 
